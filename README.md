@@ -33,7 +33,7 @@ The model achieves **high accuracy (~99%)**, with excellent performance in predi
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-risk-classification.git
+   git clone https://github.com/CarlosSanchez1999/credit-risk-classification.git
    cd credit-risk-classification
    ```
 2. Install required dependencies:
